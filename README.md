@@ -8,9 +8,15 @@ An interactive map that shows what's happening across 86 buildings right now —
 
 [Getting Started](#getting-started) · [Data Sources](#data-sources) · [Architecture](#architecture) · [API](#api)
 
+[![Demo Video](https://img.shields.io/badge/Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/GdXsXGQV098)
+
 </div>
 
 ---
+
+## Demo
+
+https://youtu.be/GdXsXGQV098
 
 ## Features
 
